@@ -9,7 +9,7 @@ My aim here is to create a practical guide/case study that others can use, using
 
 I work with scientists from varied research backgrounds to discuss ethics and reproducibility in creating computer models in Neurobiology. This is so that the broad science community can become aware of potential biases they continue to carry unless questioned and critiqued, so that we can move towards a more inclusive and accessible, and away from the imperialist white supremacist patriarchal culture we live in.
 
-*You can find more in depth detailsu for this project [here](https://github.com/Susana465/OLS-6-Ethical-standards-and-reproducibility-of-computer-models-in-Neurobiology/issues/1)*
+*You can find more in depth details for this project [here](https://github.com/Susana465/OLS-6-Ethical-standards-and-reproducibility-of-computer-models-in-Neurobiology/issues/1)*
 
 ## Why do I do this?
  - To tackle reproducibility issues and stop wasting money, time and resources in general.
